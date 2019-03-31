@@ -2,6 +2,6 @@
 template: page
 title: About me
 slug: about
-draft: true
+draft: false
 ---
 I make ze websites ....
