@@ -2,6 +2,6 @@
 template: page
 title: Contact me
 slug: contact
-draft: true
+draft: false
 ---
 [nir.io](nir.io)
