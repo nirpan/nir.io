@@ -9,10 +9,10 @@ module.exports = {
   postsPerPage: 6,
   googleAnalyticsId: '',
   menu: [
-    {
-      label: 'Articles',
-      path: '/blog'
-    },
+    // {
+    //   label: 'Articles',
+    //   path: '/blog'
+    // },
     {
       label: 'About me',
       path: '/about'
