@@ -1,12 +1,14 @@
 ---
 template: post
-title: A New Beginning
-slug: a-new-beginning
+title: 'Learning gatsby '
+slug: learning-gatsby
 draft: false
 date: 2019-04-01T12:49:02.552Z
-description: A new beginning
-category: random
+description: A diary on learning gatsby and related technologies to setup this site
+category: learning
 tags:
-  - random
+  - gatsby
+  - react
+  - grahpql
 ---
-A New Beginning
+This document will change as I learn how to properly use gatsby and related technology to setup this site.
