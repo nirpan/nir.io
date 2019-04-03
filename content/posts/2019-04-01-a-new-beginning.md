@@ -11,4 +11,4 @@ tags:
   - react
   - grahpql
 ---
-This document will change as I learn how to properly use gatsby and related technology to setup this site.
+This document will change as I learn how to properly use gatsby and related technology to setup this site. Some more text
